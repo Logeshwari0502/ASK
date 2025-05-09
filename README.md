@@ -1,6 +1,6 @@
 # ASK
 # EX-05 
-## Soniya D (212223060268)
+## LOGESHWARI R (212223060137)
 
 ## AIM
 To perform Amplitude Shift Keying(ASK) using Python
